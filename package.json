@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Constrained Delaunay Triangulation in 2D",
   "main": "cdt2d.js",
+  "typings": "cdt2d.d.ts",
   "dependencies": {
     "binary-search-bounds": "^2.0.3",
     "robust-in-sphere": "^1.1.3",
